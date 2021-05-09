@@ -1,0 +1,3 @@
+INIT();
+
+LOG(CONFIG.isDevMode);
